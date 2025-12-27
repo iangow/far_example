@@ -1,0 +1,28 @@
+# Running code from *Empirical Research in Accounting: Tools and Methods*
+
+
+To get going with [*Empirical Research in Accounting: Tools and Methods*](https://iangow.github.io/far_book/), follow these steps:
+
+1.  Complete steps 1–3 from [here](https://iangow.github.io/far_book/intro.html#sec-install). (Step 4 is unnecessary for the parquet-based set-up we’re using here.)
+
+2.  Download the RStudio project from [here](https://github.com/iangow/far_example). One way to download it is to click the green “Code” button then “Download ZIP” and then unzip the downloaded file.
+
+3.  Run the code in the Python notebook [here](https://github.com/iangow/far_templates/blob/main/get_wrds_data.ipynb), but after setting `DATA_DIR` to the `data` directory inside the project folder you created in the previous step. (If you have already run the Python notebook and have a `data` directory already, then just move this into the project folder you created above.)
+
+4.  Open the RStudio project you downloaded in Step 2 above, and then open the file `bb68-pq.qmd` inside RStudio.
+
+5.  With the `bb68-pq.qmd` open in RStudio, click the “Render” button. This will take a little time, but at the end you will have a rendered replication of Ball and Brown (1968) as seen [here](https://iangow.github.io/far_book/bb68.html#replicating-ball1968ub). (I have also included `bb68-pq-pdf.qmd`, which renders directly to a PDF, but may require additional set-up.)
+
+6.  To work on another chapter of [*Empirical Research in Accounting: Tools and Methods*](https://iangow.github.io/far_book/), you can download the associated “Parquet template” from [here](https://github.com/iangow/far_templates/blob/main/README.md) by right-clicking and downloading the linked file to the project directory you created in Step 2 above.
+
+## References
+
+<div id="refs" class="references csl-bib-body hanging-indent" entry-spacing="0">
+
+<div id="ref-Ball:1968ub" class="csl-entry">
+
+Ball, Ray, and Philip Brown. 1968. “An Empirical Evaluation of Accounting Income Numbers.” *Journal of Accounting Research* 6 (2): 159–78. <https://doi.org/10.2307/2490232>.
+
+</div>
+
+</div>
