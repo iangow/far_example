@@ -11,7 +11,7 @@ To get going with [*Empirical Research in Accounting: Tools and Methods*](https:
 
 4.  Open the RStudio project you downloaded in Step 2 above, and then open the file `bb68-pq.qmd` inside RStudio.
 
-5.  With the `bb68-pq.qmd` open in RStudio, click the “Render” button. This will take a little time, but at the end you will have a rendered replication of Ball and Brown (1968) as seen [here](https://iangow.github.io/far_book/bb68.html#replicating-ball1968ub). (I have also included `bb68-pq-pdf.qmd`, which renders directly to a PDF, but may require additional set-up.)
+5.  With `bb68-pq.qmd` open in RStudio, click the “Render” button. This will take a little time, but at the end you will have a rendered replication of Ball and Brown (1968) as seen [here](https://iangow.github.io/far_book/bb68.html#replicating-ball1968ub). (I have also included `bb68-pq-pdf.qmd`, which renders directly to a PDF, but may require additional set-up.)
 
 6.  To work on another chapter of [*Empirical Research in Accounting: Tools and Methods*](https://iangow.github.io/far_book/), you can download the associated “Parquet template” from [here](https://github.com/iangow/far_templates/blob/main/README.md) by right-clicking and downloading the linked file to the project directory you created in Step 2 above.
 
