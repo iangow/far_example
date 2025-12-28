@@ -7,7 +7,7 @@ To get going with [*Empirical Research in Accounting: Tools and Methods*](https:
 
 2.  Download the RStudio project from [here](https://github.com/iangow/far_example). One way to download it is to click the green “Code” button then “Download ZIP” and then unzip the downloaded file.
 
-3.  Run the code in the Python notebook [here](https://github.com/iangow/far_templates/blob/main/get_wrds_data.ipynb), but after setting `DATA_DIR` to the `data` directory inside the project folder you created in the previous step. (If you have already run the Python notebook and have a `data` directory already, then just move this into the project folder you created above.)
+3.  Run the code in the Python notebook [here](https://github.com/iangow/far_templates/blob/main/get_wrds_data.ipynb), but after setting `DATA_DIR` to the `data` directory inside the project folder you created in the previous step. (If you have already run the Python notebook and have a `data` directory already, then just move this into the project folder you created above. Alternatively, just edit the `.Renviron` file in the project directory so that `DATA_DIR` refers to the location of the data directory on your computer and reopen the project in RStudio.)
 
 4.  Open the RStudio project you downloaded in Step 2 above, and then open the file `bb68-pq.qmd` inside RStudio.
 
