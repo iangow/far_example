@@ -18,7 +18,7 @@ One way to download it is to click the green "Code" button then "Download ZIP" a
 
 4. Open the RStudio project you downloaded in Step 2 above, and then open the file `bb68-pq.qmd` inside RStudio.
 
-5. With the `bb68-pq.qmd` open in RStudio, click the "Render" button.
+5. With `bb68-pq.qmd` open in RStudio, click the "Render" button.
 This will take a little time, but at the end you will have a rendered replication of @Ball:1968ub as seen [here](https://iangow.github.io/far_book/bb68.html#replicating-ball1968ub).
 (I have also included `bb68-pq-pdf.qmd`, which renders directly to a PDF, but may require additional set-up.)
 
